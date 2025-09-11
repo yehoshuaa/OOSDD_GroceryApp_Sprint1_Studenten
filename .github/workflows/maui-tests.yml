@@ -1,4 +1,4 @@
-name: MAUI Unit Tests  # test line
+name: MAUI Unit Tests  # test push on dev branch
  
 on:
   push:
